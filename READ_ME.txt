@@ -1,8 +1,3 @@
-Task FBK
-
-Application built by Alessandro Zuech
-
-
 ############  CONTENT  ##########################
 
 This folder contains 6 files other than READ_ME.txt:
